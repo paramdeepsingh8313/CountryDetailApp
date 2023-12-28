@@ -76,6 +76,7 @@ function DetailsPage(props) {
         <table>
           <thead>
             <tr>
+              <th>Sl No.</th>
               <th>State Name</th>
               <th>State Code</th>
             </tr>
